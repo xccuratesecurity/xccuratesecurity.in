@@ -2528,6 +2528,11 @@ p {
     display: none;
   }
 }
+@media (max-width: 991px) {
+  img#about-hacker {
+    display: none;
+  }
+}
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .hero__shape-2 img.hero-2-flower {
     bottom: -13%;
